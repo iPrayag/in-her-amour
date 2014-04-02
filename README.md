@@ -1,10 +1,11 @@
 in-her-amour
 ----------------
 
-run-app
------------
+start elasticsearch and run-server
+------------------------------------
+
 ```
-$ revel run in-her-amour
+$ bash run.sh
 ```
 
 and check url `http://localhost:9000/App/Index`
